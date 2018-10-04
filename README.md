@@ -14,7 +14,7 @@
 ```
 
 
-<a href ="javascript:alert(1)">aa</a>
+<a href ="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">aa</a>
 
 "></p><iframe src=https://www.baidu.com></iframe>
 
