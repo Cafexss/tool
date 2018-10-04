@@ -13,3 +13,5 @@
 【subscan.php】 以前碰到扫子域名200，写了一个可以自定义针对response过滤的。用file_get_contents去抓页面 速度慢效率很低 anyway能用就行了。
 ```
 
+
+<a href ="https://www.baidu.com">aa</a>
